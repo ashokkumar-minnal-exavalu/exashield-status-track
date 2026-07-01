@@ -1,0 +1,9 @@
+[package]
+org = "exavalu"
+name = "exashield_status_track"
+version = "0.1.0"
+distribution = "2201.13.3"
+title = "exashield-status-track"
+
+[build-options]
+sticky = true
